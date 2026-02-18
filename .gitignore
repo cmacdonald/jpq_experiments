@@ -2,5 +2,6 @@
 **/config.json
 **/pt_meta.json
 **/*.f4
-**/model.safetensors
+**/*.safetensors
 **/.ipynb_checkpoints
+**/model.safetensors.index.json

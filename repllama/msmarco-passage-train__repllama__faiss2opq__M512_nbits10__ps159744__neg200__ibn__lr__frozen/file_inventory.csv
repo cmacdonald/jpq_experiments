@@ -1,0 +1,10 @@
+filename,size_bytes
+docnos.npids,206
+subvecs.f4,16777216
+opq.f4,67108864
+codes.f4,9054026752
+pt_meta.json,108
+config.json,665
+model-00001-of-00003.safetensors,4938984616
+model-00002-of-00003.safetensors,3949985792
+file_inventory.csv,0
