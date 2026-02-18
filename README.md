@@ -23,4 +23,4 @@ The files in the root folder are:
 
 To install and run the JPQ training code, see the pyterrier_dr_jpq repository at https://anonymous.4open.science/r/pyterrier_dr_jpq-B754/
 
-Example to demonstrate replication: TO FOLLOW
+Example to demonstrate replication - see our Colab notebook: https://colab.research.google.com/drive/13c0KapmsdqMhSv1rDTKcBcyQvuT7CnZN?usp=sharing
