@@ -1,0 +1,10 @@
+vllm==0.8.5.post1
+datasets==4.5.0
+transformers==4.51.3
+sentence-transformers==4.1.0
+numpy==1.26.4
+python-terrier==0.13.1
+pyterrier-rag==0.3.0
+pyterrier-dr==0.6.2
+pyserini==1.2.0
+faiss-gpu==1.7.2

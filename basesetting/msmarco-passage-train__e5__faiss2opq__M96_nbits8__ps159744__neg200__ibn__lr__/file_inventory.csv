@@ -1,0 +1,17 @@
+filename,size_bytes
+docnos.npids,206
+subvecs.f4,786432
+opq.f4,2359296
+codes.f4,848815008
+pt_meta.json,106
+config_sentence_transformers.json,283
+config.json,612
+model.safetensors,437951328
+tokenizer_config.json,1220
+special_tokens_map.json,695
+vocab.txt,231508
+tokenizer.json,711649
+sentence_bert_config.json,57
+modules.json,349
+README.md,67561
+file_inventory.csv,0

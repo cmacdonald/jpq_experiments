@@ -1,0 +1,6 @@
+**/docnos.npids
+**/config.json
+**/pt_meta.json
+**/*.f4
+**/model.safetensors
+**/.ipynb_checkpoints
