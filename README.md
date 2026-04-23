@@ -1,6 +1,6 @@
 # JPQ Replicability Study - Virtual Appendix
 
-This is the README for the virtual appendix for the JPQ Replicability paper currently under review.
+This is the virtual appendix for the JPQ Replicability paper currently under review.
 
 The folders are as follows:
  - ablation_amd_3090: This contains the JPQ runs for the ablations in Table 2 on the TCT model. As stated in the paper, for this folder, we use only AMD Ryzen CPU with Nvidia 3090 for this experiment.
@@ -17,10 +17,14 @@ Each folder contains:
  - a listing of the files for the checkpoints and index data structures (these are not provided in the repository, for reasons of space); we provide ONE example, discussed below
 
 The files in the root folder are:
- - preruns.ipynb: invocations of pyterrier_jpq/jpq/run.py to run the various JPQ training runs.
+ - preruns.ipynb: a notebook that constructs the invocations of pyterrier_jpq/jpq/run.py to run the various JPQ training runs.
  - tables.ipynb: code to generate the tables in the paper from the log and run files.
  - record_files.py: code to generate file listing for the checkpoint folders.
 
-To install and run the JPQ training code, see the pyterrier_dr_jpq repository at https://anonymous.4open.science/r/pyterrier_dr_jpq-B754/
+To install and run the JPQ training code, see the [pyterrier_dr repository](https://github.com/terrierteam/pyterrier_dr)
 
 Example to demonstrate replication - see our Colab notebook: https://colab.research.google.com/drive/13c0KapmsdqMhSv1rDTKcBcyQvuT7CnZN?usp=sharing
+
+## Citation
+
+A Replicability Study of Joint Product Quantisation for Effective Space-Efficient Dense Retrieval. Craig Macdonald, Nicola Tonellotto, Zhili Shen. In Proceedings of ACM SIGIR 2026. 
