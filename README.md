@@ -23,7 +23,9 @@ The files in the root folder are:
 
 To install and run the JPQ training code, see the [pyterrier_dr repository](https://github.com/terrierteam/pyterrier_dr)
 
-Want to try it out? See our notebook for MSMARCO: [pyterrier_dr/examples/jpq-tct-replication.ipynb](https://github.com/terrierteam/pyterrier_dr/blob/main/examples/jpq-tct-replication.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/pyterrier/blob/master/examples/notebooks/indexing.ipynb)
+Want to try it out? See our notebooks below. 
+- MSMARCO: [jpq-tct-replication.ipynb](https://github.com/terrierteam/pyterrier_dr/tree/main/examples/jpq-tct-replication.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrierteam/pyterrier_dr/blob/main/examples/jpq-tct-replication.ipynb)
+- NQ: [jpq-tct-nq.ipynb](https://github.com/terrierteam/pyterrier_dr/tree/main/examples/jpq-tct-nq.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrierteam/pyterrier_dr/blob/main/examples/jpq-tct-nq.ipynb)
 
 ## Citation
 
