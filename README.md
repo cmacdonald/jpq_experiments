@@ -23,7 +23,7 @@ The files in the root folder are:
 
 To install and run the JPQ training code, see the [pyterrier_dr repository](https://github.com/terrierteam/pyterrier_dr)
 
-Example to demonstrate replication - see our Colab notebook: https://colab.research.google.com/drive/13c0KapmsdqMhSv1rDTKcBcyQvuT7CnZN?usp=sharing
+Want to try it out? See our notebook for MSMARCO: [pyterrier_dr/examples/jpq-tct-replication.ipynb](https://github.com/terrierteam/pyterrier_dr/blob/main/examples/jpq-tct-replication.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/pyterrier/blob/master/examples/notebooks/indexing.ipynb)
 
 ## Citation
 
